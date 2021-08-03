@@ -1,0 +1,28 @@
+{
+  "courses": [
+    {
+      "col1": "Hello",
+      "col2": "World",
+      "col3": "Hello",
+      "col4": "World",
+      "col5": "Hello",
+      "col6": "World"
+    },
+    {
+      "col1": "Hello",
+      "col2": "World",
+      "col3": "Hello",
+      "col4": "World",
+      "col5": "Hello",
+      "col6": "World"
+    },
+    {
+      "col1": "Hello",
+      "col2": "World",
+      "col3": "Hello",
+      "col4": "World",
+      "col5": "Hello",
+      "col6": "World"
+    }
+  ]
+}
